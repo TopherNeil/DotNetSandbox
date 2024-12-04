@@ -1,0 +1,14 @@
+C:\Users\Chon\RiderProjects\DotNetSandbox\Namespaces\bin\Debug\net9.0\Namespaces.exe
+C:\Users\Chon\RiderProjects\DotNetSandbox\Namespaces\bin\Debug\net9.0\Namespaces.deps.json
+C:\Users\Chon\RiderProjects\DotNetSandbox\Namespaces\bin\Debug\net9.0\Namespaces.runtimeconfig.json
+C:\Users\Chon\RiderProjects\DotNetSandbox\Namespaces\bin\Debug\net9.0\Namespaces.dll
+C:\Users\Chon\RiderProjects\DotNetSandbox\Namespaces\bin\Debug\net9.0\Namespaces.pdb
+C:\Users\Chon\RiderProjects\DotNetSandbox\Namespaces\obj\Debug\net9.0\Namespaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chon\RiderProjects\DotNetSandbox\Namespaces\obj\Debug\net9.0\Namespaces.AssemblyInfoInputs.cache
+C:\Users\Chon\RiderProjects\DotNetSandbox\Namespaces\obj\Debug\net9.0\Namespaces.AssemblyInfo.cs
+C:\Users\Chon\RiderProjects\DotNetSandbox\Namespaces\obj\Debug\net9.0\Namespaces.csproj.CoreCompileInputs.cache
+C:\Users\Chon\RiderProjects\DotNetSandbox\Namespaces\obj\Debug\net9.0\Namespaces.dll
+C:\Users\Chon\RiderProjects\DotNetSandbox\Namespaces\obj\Debug\net9.0\refint\Namespaces.dll
+C:\Users\Chon\RiderProjects\DotNetSandbox\Namespaces\obj\Debug\net9.0\Namespaces.pdb
+C:\Users\Chon\RiderProjects\DotNetSandbox\Namespaces\obj\Debug\net9.0\Namespaces.genruntimeconfig.cache
+C:\Users\Chon\RiderProjects\DotNetSandbox\Namespaces\obj\Debug\net9.0\ref\Namespaces.dll
