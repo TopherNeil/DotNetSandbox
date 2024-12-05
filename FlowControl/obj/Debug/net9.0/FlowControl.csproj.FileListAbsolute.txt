@@ -1,0 +1,15 @@
+C:\Users\Chon\RiderProjects\DotNetSandbox\FlowControl\bin\Debug\net9.0\FlowControl.exe
+C:\Users\Chon\RiderProjects\DotNetSandbox\FlowControl\bin\Debug\net9.0\FlowControl.deps.json
+C:\Users\Chon\RiderProjects\DotNetSandbox\FlowControl\bin\Debug\net9.0\FlowControl.runtimeconfig.json
+C:\Users\Chon\RiderProjects\DotNetSandbox\FlowControl\bin\Debug\net9.0\FlowControl.dll
+C:\Users\Chon\RiderProjects\DotNetSandbox\FlowControl\bin\Debug\net9.0\FlowControl.pdb
+C:\Users\Chon\RiderProjects\DotNetSandbox\FlowControl\obj\Debug\net9.0\FlowControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chon\RiderProjects\DotNetSandbox\FlowControl\obj\Debug\net9.0\FlowControl.AssemblyInfoInputs.cache
+C:\Users\Chon\RiderProjects\DotNetSandbox\FlowControl\obj\Debug\net9.0\FlowControl.AssemblyInfo.cs
+C:\Users\Chon\RiderProjects\DotNetSandbox\FlowControl\obj\Debug\net9.0\FlowControl.csproj.CoreCompileInputs.cache
+C:\Users\Chon\RiderProjects\DotNetSandbox\FlowControl\obj\Debug\net9.0\FlowControl.sourcelink.json
+C:\Users\Chon\RiderProjects\DotNetSandbox\FlowControl\obj\Debug\net9.0\FlowControl.dll
+C:\Users\Chon\RiderProjects\DotNetSandbox\FlowControl\obj\Debug\net9.0\refint\FlowControl.dll
+C:\Users\Chon\RiderProjects\DotNetSandbox\FlowControl\obj\Debug\net9.0\FlowControl.pdb
+C:\Users\Chon\RiderProjects\DotNetSandbox\FlowControl\obj\Debug\net9.0\FlowControl.genruntimeconfig.cache
+C:\Users\Chon\RiderProjects\DotNetSandbox\FlowControl\obj\Debug\net9.0\ref\FlowControl.dll

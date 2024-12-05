@@ -36,8 +36,9 @@ class Program
           switch (userType)
           {
               case "Admin":
-                  Console.WriteLine("User is an admin");
-                  break;
+              case "Moderator":
+                  Console.WriteLine("User is an Admin or a Moderator");
+                  break;    
               case "User":
                   Console.WriteLine("User is a user");
                   break;
@@ -74,6 +75,11 @@ class Program
           Console.WriteLine("********************************************");
           // Foreach Loop - Executes for each item in a collection
           var numbers = new List<int> {1, 2, 3, 4, 5};
+          for (var index = numbers.Count; index >= 0; index--)
+          {
+              int numberToAdd = Convert.ToInt32(Console.ReadLine());
+              numbers.Add(numberToAdd);
+          }
           foreach (var number in numbers)
           {
               Console.WriteLine($"number is {number}");
