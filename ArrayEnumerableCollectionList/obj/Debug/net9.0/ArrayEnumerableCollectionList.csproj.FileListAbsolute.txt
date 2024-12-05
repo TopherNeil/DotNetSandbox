@@ -1,0 +1,15 @@
+C:\Users\Chon\RiderProjects\DotNetSandbox\ArrayEnumerableCollectionList\bin\Debug\net9.0\ArrayEnumerableCollectionList.exe
+C:\Users\Chon\RiderProjects\DotNetSandbox\ArrayEnumerableCollectionList\bin\Debug\net9.0\ArrayEnumerableCollectionList.deps.json
+C:\Users\Chon\RiderProjects\DotNetSandbox\ArrayEnumerableCollectionList\bin\Debug\net9.0\ArrayEnumerableCollectionList.runtimeconfig.json
+C:\Users\Chon\RiderProjects\DotNetSandbox\ArrayEnumerableCollectionList\bin\Debug\net9.0\ArrayEnumerableCollectionList.dll
+C:\Users\Chon\RiderProjects\DotNetSandbox\ArrayEnumerableCollectionList\bin\Debug\net9.0\ArrayEnumerableCollectionList.pdb
+C:\Users\Chon\RiderProjects\DotNetSandbox\ArrayEnumerableCollectionList\obj\Debug\net9.0\ArrayEnumerableCollectionList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chon\RiderProjects\DotNetSandbox\ArrayEnumerableCollectionList\obj\Debug\net9.0\ArrayEnumerableCollectionList.AssemblyInfoInputs.cache
+C:\Users\Chon\RiderProjects\DotNetSandbox\ArrayEnumerableCollectionList\obj\Debug\net9.0\ArrayEnumerableCollectionList.AssemblyInfo.cs
+C:\Users\Chon\RiderProjects\DotNetSandbox\ArrayEnumerableCollectionList\obj\Debug\net9.0\ArrayEnumerableCollectionList.csproj.CoreCompileInputs.cache
+C:\Users\Chon\RiderProjects\DotNetSandbox\ArrayEnumerableCollectionList\obj\Debug\net9.0\ArrayEnumerableCollectionList.sourcelink.json
+C:\Users\Chon\RiderProjects\DotNetSandbox\ArrayEnumerableCollectionList\obj\Debug\net9.0\ArrayEnumerableCollectionList.dll
+C:\Users\Chon\RiderProjects\DotNetSandbox\ArrayEnumerableCollectionList\obj\Debug\net9.0\refint\ArrayEnumerableCollectionList.dll
+C:\Users\Chon\RiderProjects\DotNetSandbox\ArrayEnumerableCollectionList\obj\Debug\net9.0\ArrayEnumerableCollectionList.pdb
+C:\Users\Chon\RiderProjects\DotNetSandbox\ArrayEnumerableCollectionList\obj\Debug\net9.0\ArrayEnumerableCollectionList.genruntimeconfig.cache
+C:\Users\Chon\RiderProjects\DotNetSandbox\ArrayEnumerableCollectionList\obj\Debug\net9.0\ref\ArrayEnumerableCollectionList.dll
