@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Chon\\RiderProjects\\DotNetSandbox\\ControlFlows\\ControlFlows.csproj",
-      "projectName": "ControlFlows",
-      "projectPath": "C:\\Users\\Chon\\RiderProjects\\DotNetSandbox\\ControlFlows\\ControlFlows.csproj",
+      "projectUniqueName": "C:\\Users\\Chon\\RiderProjects\\DotNetSandbox\\FlowControl\\FlowControl.csproj",
+      "projectName": "FlowControl",
+      "projectPath": "C:\\Users\\Chon\\RiderProjects\\DotNetSandbox\\FlowControl\\FlowControl.csproj",
       "packagesPath": "C:\\Users\\Chon\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Chon\\RiderProjects\\DotNetSandbox\\ControlFlows\\obj\\",
+      "outputPath": "C:\\Users\\Chon\\RiderProjects\\DotNetSandbox\\FlowControl\\obj\\",
       "projectStyle": "PackageReference",
       "UsingMicrosoftNETSdk": false,
       "configFilePaths": [
