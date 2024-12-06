@@ -1,0 +1,15 @@
+C:\Users\Chon\RiderProjects\DotNetSandbox\Lambda\bin\Debug\net9.0\Lambda.exe
+C:\Users\Chon\RiderProjects\DotNetSandbox\Lambda\bin\Debug\net9.0\Lambda.deps.json
+C:\Users\Chon\RiderProjects\DotNetSandbox\Lambda\bin\Debug\net9.0\Lambda.runtimeconfig.json
+C:\Users\Chon\RiderProjects\DotNetSandbox\Lambda\bin\Debug\net9.0\Lambda.dll
+C:\Users\Chon\RiderProjects\DotNetSandbox\Lambda\bin\Debug\net9.0\Lambda.pdb
+C:\Users\Chon\RiderProjects\DotNetSandbox\Lambda\obj\Debug\net9.0\Lambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chon\RiderProjects\DotNetSandbox\Lambda\obj\Debug\net9.0\Lambda.AssemblyInfoInputs.cache
+C:\Users\Chon\RiderProjects\DotNetSandbox\Lambda\obj\Debug\net9.0\Lambda.AssemblyInfo.cs
+C:\Users\Chon\RiderProjects\DotNetSandbox\Lambda\obj\Debug\net9.0\Lambda.csproj.CoreCompileInputs.cache
+C:\Users\Chon\RiderProjects\DotNetSandbox\Lambda\obj\Debug\net9.0\Lambda.sourcelink.json
+C:\Users\Chon\RiderProjects\DotNetSandbox\Lambda\obj\Debug\net9.0\Lambda.dll
+C:\Users\Chon\RiderProjects\DotNetSandbox\Lambda\obj\Debug\net9.0\refint\Lambda.dll
+C:\Users\Chon\RiderProjects\DotNetSandbox\Lambda\obj\Debug\net9.0\Lambda.pdb
+C:\Users\Chon\RiderProjects\DotNetSandbox\Lambda\obj\Debug\net9.0\Lambda.genruntimeconfig.cache
+C:\Users\Chon\RiderProjects\DotNetSandbox\Lambda\obj\Debug\net9.0\ref\Lambda.dll
